@@ -50,7 +50,7 @@ For more informaiton, please refer to [EDSR (PyTorch)](https://github.com/thstkd
 
 1. Download benchmark dataset from [BaiduYun](https://pan.baidu.com/s/1Bl8TUHywC1HUHoamUFdCew) (code：20v5), place them in directory specified by '--dir_data' in src/option.py, untar it.
 
-2. Download model for our paper from [BaiduYun](https://pan.baidu.com/s/1D1i8JHRBq64cxXal7_JQUQ?pwd=mwww) (code：mwww) and place them in 'experiment/'.
+2. Download models for our paper from [BaiduYun](https://pan.baidu.com/s/1D1i8JHRBq64cxXal7_JQUQ?pwd=mwww) (code：mwww) and place them in 'experiment/'.
 
 3. Cd to 'src', run the following scripts to test downloaded model.
 
